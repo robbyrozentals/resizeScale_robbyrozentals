@@ -5,9 +5,9 @@ CSG cube = new Cube(	size,// X dimention
 			).toCSG()
 			//Scale lets you increas or decrease the sise by a scale factor
 CSG cubeSmall = cube
-		.scalex(2.5)
-		.scaley(03.5)
-		.scalez(01.5)
+		.scalex(3.5)
+		.scaley(010.5)
+		.scalez(03.5)
 		.movez(size*4.5)
 			
 // this can be a shell or printer keepaway
